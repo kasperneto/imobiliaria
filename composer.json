@@ -1,0 +1,29 @@
+{
+    "name": "kasperneto/imobiliaria",
+    "description": "Arquivos adicionais",
+    "authors": [
+            {
+                "name": "Eugenio Kasper Neto",
+                "email": "kasper.neto@gmail.com",
+                "role": "owner"
+            }
+        ],
+    "type": "library",
+    "require":             
+}
+
+{
+    "name": "kasperneto/imobiliaria",
+    "authors": [
+        {
+            "name": "Eugenio Kasper Neto",
+            "email": "kasper.neto@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kasperneto\\": "src"
+        }
+    }
+}
