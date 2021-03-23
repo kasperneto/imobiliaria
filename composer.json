@@ -11,8 +11,6 @@
     ],
     "require": {},
     "autoload": {
-        "autoload": {
-            "files": ["clique.class.php"]
-        }
+        "files": ["clique.class.php"]
     }    
 }
