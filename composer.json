@@ -11,8 +11,8 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {
-            "kasperneto\\": "src"
+        "autoload": {
+            "files": ["clique.class.php"]
         }
     }    
 }
