@@ -1,4 +1,15 @@
 <?php
+/**
+ * Imobiliaria Class
+ *
+ * @category  Imobiliaria
+ * @package   Imobiliaria
+ * @author    Eugenio Kasper <kasper.neto@gmail.com>
+ * @copyright Copyright (c) 2010-2017
+ * @license   http://opensource.org/licenses/gpl-3.0.html GNU Public License
+ * @link      https://github.com/kasperneto/imobiliaria/blob/main/composer.json
+ * @version   2.9.3
+ */
 
 // V($_GET, 'var', '');
 // And you can actually drop the last parameter because the default default is an empty string.
